@@ -1,0 +1,347 @@
+[
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "eggs", "pecorino cheese", "guanciale", "black pepper"],
+      "cookingTime": "20 minutes",
+      "calories": "400 kcal",
+      "instructions": "Boil spaghetti. In a pan, cook guanciale until crispy. In a bowl, mix eggs, pecorino cheese, and black pepper. Drain spaghetti and mix with the egg mixture. Serve immediately.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Margherita Pizza",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil"],
+      "cookingTime": "15 minutes",
+      "calories": "300 kcal",
+      "instructions": "Preheat oven to 475°F (245°C). Stretch out pizza dough and top with tomato sauce, mozzarella cheese, and fresh basil. Drizzle with olive oil. Bake for 10-12 minutes until crust is golden and cheese is bubbly.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Caprese Salad",
+      "ingredients": ["tomatoes", "fresh mozzarella cheese", "fresh basil leaves", "balsamic vinegar", "extra virgin olive oil"],
+      "cookingTime": "10 minutes",
+      "calories": "200 kcal",
+      "instructions": "Slice tomatoes and mozzarella cheese. Arrange on a plate with fresh basil leaves. Drizzle with balsamic vinegar and extra virgin olive oil. Season with salt and pepper to taste.",
+      "dietaryRestrictions": ["vegetarian", "gluten-free"]
+    },
+    {
+      "name": "Pasta Aglio e Olio",
+      "ingredients": ["spaghetti", "garlic", "olive oil", "red pepper flakes", "parsley"],
+      "cookingTime": "15 minutes",
+      "calories": "350 kcal",
+      "instructions": "Boil spaghetti. In a pan, heat olive oil and add minced garlic and red pepper flakes. Cook until garlic is golden. Toss cooked spaghetti in the garlic oil. Garnish with chopped parsley.",
+      "dietaryRestrictions": ["vegan"]
+    },
+    {
+      "name": "Bruschetta",
+      "ingredients": ["baguette", "tomatoes", "garlic", "fresh basil", "balsamic vinegar"],
+      "cookingTime": "10 minutes",
+      "calories": "150 kcal",
+      "instructions": "Slice baguette and toast until golden. Rub with garlic cloves. Dice tomatoes and mix with chopped fresh basil and balsamic vinegar. Top toasted baguette slices with the tomato mixture.",
+      "dietaryRestrictions": ["vegan"]
+    },
+    {
+      "name": "Risotto ai Funghi",
+      "ingredients": ["arborio rice", "mushrooms", "onion", "white wine", "parmesan cheese"],
+      "cookingTime": "30 minutes",
+      "calories": "400 kcal",
+      "instructions": "In a pan, sauté chopped onion until translucent. Add sliced mushrooms and cook until softened. Add arborio rice and stir to coat in the oil. Deglaze with white wine. Gradually add hot vegetable broth, stirring frequently, until rice is creamy and cooked through. Stir in grated parmesan cheese before serving.",
+      "dietaryRestrictions": ["gluten-free"]
+    },
+    {
+      "name": "Tiramisu",
+      "ingredients": ["ladyfingers", "mascarpone cheese", "eggs", "sugar", "espresso coffee"],
+      "cookingTime": "2 hours",
+      "calories": "300 kcal",
+      "instructions": "Prepare strong espresso coffee and let it cool. In a bowl, whisk egg yolks with sugar until pale and creamy. Fold in mascarpone cheese. In another bowl, beat egg whites until stiff peaks form. Gently fold egg whites into the mascarpone mixture. Dip ladyfingers in the cooled espresso and layer them in a serving dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of dipped ladyfingers and mascarpone mixture. Refrigerate for at least 2 hours before serving.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Minestrone Soup",
+      "ingredients": ["vegetable broth", "canned tomatoes", "carrots", "celery", "zucchini", "pasta"],
+      "cookingTime": "45 minutes",
+      "calories": "250 kcal",
+      "instructions": "In a large pot, sauté chopped carrots, celery, and zucchini until softened. Add canned tomatoes and vegetable broth. Bring to a simmer and let cook for 20 minutes. Add pasta and cook until al dente. Season with salt and pepper to taste. Serve hot.",
+      "dietaryRestrictions": ["vegan"]
+    },
+    {
+      "name": "Pesto Pasta",
+      "ingredients": ["spaghetti", "basil leaves", "pine nuts", "parmesan cheese", "garlic", "olive oil"],
+      "cookingTime": "15 minutes",
+      "calories": "350 kcal",
+      "instructions": "Boil spaghetti. In a food processor, combine basil leaves, pine nuts, grated parmesan cheese, garlic, and olive oil. Blend until smooth. Toss cooked spaghetti with the pesto sauce. Serve immediately.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Pasta all'Amatriciana",
+      "ingredients": ["spaghetti", "guanciale", "canned tomatoes", "onion", "pecorino cheese", "chili flakes"],
+      "cookingTime": "30 minutes",
+      "calories": "400 kcal",
+      "instructions": "Boil spaghetti. In a pan, cook diced guanciale until crispy. Remove excess fat. Add diced onion and cook until softened. Add canned tomatoes and chili flakes. Simmer until sauce thickens. Toss cooked spaghetti with the sauce. Serve with grated pecorino cheese on top.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "ingredients": ["fettuccine pasta", "butter", "heavy cream", "parmesan cheese", "garlic", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "600 kcal",
+      "instructions": "Cook fettuccine pasta according to package instructions. In a saucepan, melt butter and sauté minced garlic until fragrant. Add heavy cream and simmer until slightly thickened. Stir in grated parmesan cheese until melted and smooth. Season with salt and black pepper. Toss cooked pasta in the sauce and serve hot.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Chicken Parmesan",
+      "ingredients": ["boneless, skinless chicken breasts", "breadcrumbs", "eggs", "flour", "marinara sauce", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "black pepper"],
+      "cookingTime": "40 minutes",
+      "calories": "700 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Season chicken breasts with salt and black pepper. Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. Heat olive oil in a skillet over medium heat and brown chicken on both sides. Transfer chicken to a baking dish, top with marinara sauce, mozzarella cheese, and parmesan cheese. Bake for 25-30 minutes until chicken is cooked through and cheese is bubbly.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Lasagna",
+      "ingredients": ["lasagna noodles", "ground beef", "Italian sausage", "onion", "garlic", "marinara sauce", "ricotta cheese", "mozzarella cheese", "parmesan cheese", "egg", "salt", "black pepper", "dried oregano", "dried basil"],
+      "cookingTime": "1 hour 30 minutes",
+      "calories": "800 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions. In a skillet, cook ground beef and Italian sausage until browned. Add chopped onion and minced garlic and cook until softened. Stir in marinara sauce and simmer for 10 minutes. In a bowl, combine ricotta cheese, mozzarella cheese, parmesan cheese, beaten egg, salt, black pepper, dried oregano, and dried basil. Spread a thin layer of meat sauce in the bottom of a baking dish. Layer noodles, cheese mixture, and meat sauce. Repeat layers and top with mozzarella cheese. Cover with foil and bake for 45 minutes. Remove foil and bake for an additional 15 minutes until bubbly.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Margherita Pasta",
+      "ingredients": ["spaghetti", "cherry tomatoes", "fresh mozzarella cheese", "fresh basil leaves", "garlic", "olive oil", "salt", "black pepper"],
+      "cookingTime": "20 minutes",
+      "calories": "500 kcal",
+      "instructions": "Cook spaghetti according to package instructions. In a skillet, heat olive oil and sauté minced garlic until fragrant. Add halved cherry tomatoes and cook until softened. Toss cooked spaghetti with the tomato mixture. Tear fresh mozzarella cheese into pieces and add to the pasta along with torn fresh basil leaves. Season with salt and black pepper. Serve hot.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Tortellini Soup",
+      "ingredients": ["tortellini pasta", "chicken broth", "Italian sausage", "spinach", "carrot", "celery", "onion", "garlic", "olive oil", "salt", "black pepper", "parmesan cheese"],
+      "cookingTime": "30 minutes",
+      "calories": "400 kcal",
+      "instructions": "In a large pot, heat olive oil over medium heat. Add diced onion, minced garlic, sliced carrot, and sliced celery. Cook until softened. Add Italian sausage and cook until browned. Pour in chicken broth and bring to a simmer. Add tortellini pasta and cook according to package instructions. Stir in chopped spinach and cook until wilted. Season with salt and black pepper. Serve hot with grated parmesan cheese on top.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Gnocchi with Pesto",
+      "ingredients": ["gnocchi", "basil leaves", "pine nuts", "parmesan cheese", "garlic", "olive oil", "salt", "black pepper"],
+      "cookingTime": "20 minutes",
+      "calories": "550 kcal",
+      "instructions": "Cook gnocchi according to package instructions. In a food processor, combine basil leaves, pine nuts, grated parmesan cheese, minced garlic, olive oil, salt, and black pepper. Blend until smooth. Toss cooked gnocchi with the pesto sauce. Serve hot.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Ravioli with Tomato Cream Sauce",
+      "ingredients": ["ravioli", "canned crushed tomatoes", "heavy cream", "butter", "garlic", "onion", "parmesan cheese", "olive oil", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "600 kcal",
+      "instructions": "Cook ravioli according to package instructions. In a saucepan, heat olive oil and sauté minced garlic and diced onion until softened. Add canned crushed tomatoes and simmer for 10 minutes. Stir in heavy cream, butter, and grated parmesan cheese until smooth and creamy. Season with salt and black pepper. Toss cooked ravioli with the tomato cream sauce. Serve hot.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Chicken Marsala",
+      "ingredients": ["boneless, skinless chicken breasts", "all-purpose flour", "olive oil", "butter", "mushrooms", "marsala wine", "chicken broth", "fresh parsley", "salt", "black pepper"],
+      "cookingTime": "30 minutes",
+      "calories": "450 kcal",
+      "instructions": "Season chicken breasts with salt and black pepper, then dredge in flour. In a skillet, heat olive oil and butter over medium-high heat. Add chicken breasts and cook until golden brown on both sides. Remove chicken from skillet and set aside. In the same skillet, add sliced mushrooms and cook until softened. Pour in marsala wine and chicken broth, scraping up any browned",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Pasta Primavera",
+      "ingredients": ["spaghetti", "bell peppers", "zucchini", "yellow squash", "carrots", "broccoli", "cherry tomatoes", "garlic", "olive oil", "parmesan cheese", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "400 kcal",
+      "instructions": "Boil spaghetti according to package instructions. In a skillet, heat olive oil and sauté minced garlic until fragrant. Add sliced bell peppers, zucchini, yellow squash, carrots, and broccoli florets. Cook until vegetables are tender. Toss cooked spaghetti with the vegetable mixture. Serve hot with grated parmesan cheese on top.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Vegetable Lasagna",
+      "ingredients": ["lasagna noodles", "spinach", "mushrooms", "bell peppers", "zucchini", "carrots", "ricotta cheese", "mozzarella cheese", "marinara sauce", "parmesan cheese", "garlic", "olive oil", "salt", "black pepper"],
+      "cookingTime": "1 hour 30 minutes",
+      "calories": "550 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions. In a skillet, heat olive oil and sauté minced garlic until fragrant. Add sliced mushrooms, bell peppers, zucchini, and carrots. Cook until vegetables are tender. In a bowl, combine ricotta cheese, chopped spinach, salt, and black pepper. In a baking dish, layer marinara sauce, lasagna noodles, ricotta mixture, vegetable mixture, mozzarella cheese, and parmesan cheese. Repeat layers. Cover with foil and bake for 45 minutes. Remove foil and bake for an additional 15 minutes until bubbly.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Chicken Alfredo",
+      "ingredients": ["fettuccine pasta", "boneless, skinless chicken breasts", "butter", "heavy cream", "garlic", "parmesan cheese", "salt", "black pepper"],
+      "cookingTime": "30 minutes",
+      "calories": "700 kcal",
+      "instructions": "Cook fettuccine pasta according to package instructions. Season chicken breasts with salt and black pepper. In a skillet, heat butter over medium-high heat. Add chicken breasts and cook until golden brown on both sides and cooked through. Remove chicken from skillet and set aside. In the same skillet, add minced garlic and cook until fragrant. Stir in heavy cream and grated parmesan cheese. Cook until sauce is thickened. Slice chicken and toss with the sauce and cooked pasta. Serve hot.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Mushroom Risotto",
+      "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "white wine", "vegetable broth", "parmesan cheese", "butter", "olive oil", "salt", "black pepper", "fresh parsley"],
+      "cookingTime": "40 minutes",
+      "calories": "450 kcal",
+      "instructions": "In a saucepan, heat vegetable broth and keep warm over low heat. In a separate pan, heat olive oil and butter over medium heat. Add chopped onion and minced garlic and cook until softened. Add sliced mushrooms and cook until browned. Stir in arborio rice and cook until translucent. Deglaze with white wine and cook until absorbed. Gradually add warm vegetable broth, stirring frequently, until rice is creamy and cooked through. Stir in grated parmesan cheese and chopped fresh parsley. Season with salt and black pepper. Serve hot.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "ingredients": ["eggplant", "all-purpose flour", "eggs", "breadcrumbs", "marinara sauce", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "black pepper", "fresh basil"],
+      "cookingTime": "45 minutes",
+      "calories": "500 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Slice eggplant into rounds. Season with salt and let sit for 10 minutes. Pat dry with paper towels. Dredge eggplant slices in flour, dip in beaten eggs, and coat with breadcrumbs. Heat olive oil in a skillet over medium-high heat. Fry eggplant slices until golden brown on both sides. Remove from skillet and drain on paper towels. In a baking dish, layer marinara sauce, fried eggplant slices, mozzarella cheese, and parmesan cheese. Repeat layers. Bake for 25-30 minutes until cheese is bubbly. Garnish with fresh basil leaves before serving.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Shrimp Scampi",
+      "ingredients": ["linguine pasta", "shrimp", "butter", "olive oil", "garlic", "white wine", "lemon juice", "red pepper flakes", "fresh parsley", "salt", "black pepper"],
+      "cookingTime": "20 minutes",
+      "calories": "450 kcal",
+      "instructions": "Cook linguine pasta according to package instructions. In a skillet, melt butter with olive oil over medium heat. Add minced garlic and cook until fragrant. Add shrimp and cook until pink and opaque. Deglaze with white wine and lemon juice. Season with red pepper flakes, salt, and black pepper. Toss cooked pasta with the shrimp mixture. Garnish with chopped fresh parsley. Serve hot.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Spinach and Ricotta Stuffed Shells",
+      "ingredients": ["jumbo pasta shells", "ricotta cheese", "spinach", "parmesan cheese", "mozzarella cheese", "egg", "garlic", "marinara sauce", "olive oil", "salt", "black pepper"],
+      "cookingTime": "40 minutes",
+      "calories": "500 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Cook jumbo pasta shells according to package instructions. In a bowl, combine ricotta cheese, chopped spinach, grated parmesan cheese, shredded mozzarella cheese, beaten egg, minced garlic, salt, and black pepper. Stuff cooked pasta shells with the ricotta mixture. In a baking dish, spread marinara sauce on the bottom. Arrange stuffed shells in the dish. Drizzle with olive oil. Cover with foil and bake for 20 minutes. Remove foil and bake for an additional 10 minutes until heated through and bubbly.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Baked Ziti",
+      "ingredients": ["ziti pasta", "ground beef", "onion", "garlic", "marinara sauce", "ricotta cheese", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "black pepper", "fresh basil"],
+      "cookingTime": "40 minutes",
+      "calories": "600 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Cook ziti pasta according to package instructions. In a skillet, heat olive oil over medium heat. Add diced onion and minced garlic and cook until softened. Add ground beef and cook until browned. Stir in marinara sauce and simmer for 10 minutes. In a bowl, combine cooked ziti pasta, ricotta cheese, shredded mozzarella cheese, grated parmesan cheese, salt, and black pepper. In a baking dish, layer half of the pasta mixture, followed by half of the meat sauce. Repeat layers. Cover with foil and bake for 20 minutes. Remove foil and bake for an additional 10 minutes until bubbly. Garnish with chopped fresh basil before serving.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Calzone",
+      "ingredients": ["pizza dough", "ricotta cheese", "mozzarella cheese", "pepperoni", "marinara sauce", "olive oil", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "550 kcal",
+      "instructions": "Preheat oven to 475°F (245°C). Roll out pizza dough and cut into circles. In a bowl, combine ricotta cheese, shredded mozzarella cheese, diced pepperoni, salt, and black pepper. Place a spoonful of marinara sauce on one half of each dough circle. Top with the cheese mixture. Fold the dough over to form a half-moon shape. Press the edges to seal. Brush the tops with olive oil. Bake for 15-20 minutes until golden brown and crispy. Serve hot.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Chicken Piccata",
+      "ingredients": ["boneless, skinless chicken breasts", "all-purpose flour", "butter", "olive oil", "lemon", "chicken broth", "capers", "fresh parsley", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "400 kcal",
+      "instructions": "Season chicken breasts with salt and black pepper, then dredge in flour. In a skillet, heat olive oil and butter over medium-high heat. Add chicken breasts and cook until golden brown on both sides and cooked through. Remove chicken from skillet and set aside. In the same skillet, add chicken broth, lemon juice, and capers. Bring to a simmer and cook until slightly reduced. Return chicken to skillet and cook for a few more minutes. Garnish with chopped fresh parsley before serving.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Pasta e Fagioli",
+      "ingredients": ["ditalini pasta", "cannellini beans", "tomato sauce", "carrots", "celery", "onion", "garlic", "vegetable broth", "olive oil", "fresh parsley", "salt", "black pepper"],
+      "cookingTime": "30 minutes",
+      "calories": "350 kcal",
+      "instructions": "Cook ditalini pasta according to package instructions. In a large pot, heat olive oil over medium heat. Add diced onion, minced garlic, sliced carrots, and sliced celery. Cook until softened. Stir in tomato sauce, cannellini beans, and vegetable broth. Bring to a simmer and cook for 10-15 minutes. Add cooked pasta to the pot and stir to combine. Season with salt and black pepper. Garnish with chopped fresh parsley before serving.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Meatball Subs",
+      "ingredients": ["meatballs", "hoagie rolls", "marinara sauce", "mozzarella cheese", "parmesan cheese", "fresh basil"],
+      "cookingTime": "20 minutes",
+      "calories": "450 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Heat meatballs in marinara sauce over medium heat. Split hoagie rolls and fill with meatballs and sauce. Top with shredded mozzarella cheese and grated parmesan cheese. Bake for 10-15 minutes until cheese is melted and rolls are crispy. Garnish with fresh basil before serving.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "yellow squash", "bell peppers", "onion", "garlic", "tomato sauce", "olive oil", "fresh thyme", "fresh basil", "salt", "black pepper"],
+      "cookingTime": "45 minutes",
+      "calories": "300 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Slice eggplant, zucchini, yellow squash, and bell peppers into rounds. Arrange in a baking dish. Drizzle with olive oil and season with salt and black pepper. Roast for 20-25 minutes until vegetables are tender. In a skillet, heat olive oil over medium heat. Add diced onion and minced garlic and cook until softened. Stir in tomato sauce and simmer for 10 minutes. Serve roasted vegetables topped with tomato sauce and garnished with fresh thyme and basil.",
+      "dietaryRestrictions": ["vegan"]
+    },
+    {
+      "name": "Tuscan White Bean Soup",
+      "ingredients": ["cannellini beans", "carrots", "celery", "onion", "garlic", "vegetable broth", "olive oil", "fresh rosemary", "fresh thyme", "salt", "black pepper"],
+      "cookingTime": "30 minutes",
+      "calories": "250 kcal",
+      "instructions": "In a large pot, heat olive oil over medium heat. Add diced onion, sliced carrot, sliced celery, and minced garlic. Cook until softened. Stir in cannellini beans and vegetable broth. Bring to a simmer and cook for 15 minutes. Using an immersion blender, blend soup until smooth (or blend in batches in a regular blender). Season with salt and black pepper. Serve hot garnished with fresh rosemary and thyme.",
+      "dietaryRestrictions": ["vegan"]
+    },
+    {
+      "name": "Eggplant Rollatini",
+      "ingredients": ["eggplant", "ricotta cheese", "mozzarella cheese", "parmesan cheese", "egg", "breadcrumbs", "marinara sauce", "olive oil", "fresh basil", "salt", "black pepper"],
+      "cookingTime": "45 minutes",
+      "calories": "400 kcal",
+      "instructions": "Preheat oven to 375°F (190°C). Slice eggplant lengthwise into thin slices. Season with salt and let sit for 10 minutes. Pat dry with paper towels. In a bowl, combine ricotta cheese, shredded mozzarella cheese, grated parmesan cheese, beaten egg, chopped fresh basil, salt, and black pepper. Spread a spoonful of marinara sauce on each eggplant slice. Place a dollop of the cheese mixture on one end of each slice and roll up. Arrange in a baking dish. Top with remaining marinara sauce and sprinkle with breadcrumbs. Drizzle with olive oil. Bake for 25-30 minutes until bubbly and golden brown.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Linguine with Clam Sauce",
+      "ingredients": ["linguine pasta", "clams", "olive oil", "garlic", "white wine", "parsley", "red pepper flakes", "lemon", "salt", "black pepper"],
+      "cookingTime": "20 minutes",
+      "calories": "350 kcal",
+      "instructions": "Cook linguine pasta according to package instructions. In a skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant. Add clams and white wine. Cover and cook until clams open, about 5 minutes. Stir in chopped parsley, red pepper flakes, and lemon juice. Season with salt and black pepper. Toss cooked pasta with the clam sauce. Serve hot.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Veal Marsala",
+      "ingredients": ["veal cutlets", "all-purpose flour", "butter", "olive oil", "mushrooms", "marsala wine", "chicken broth", "fresh thyme", "salt", "black pepper"],
+      "cookingTime": "25 minutes",
+      "calories": "450 kcal",
+      "instructions": "Season veal cutlets with salt and black pepper, then dredge in flour. In a skillet, heat olive oil and butter over medium-high heat. Add veal cutlets and cook until golden brown on both sides. Remove veal from skillet and set aside. In the same skillet, add sliced mushrooms and cook until browned. Deglaze with marsala wine and chicken broth. Return veal to skillet and cook for a few more minutes. Garnish with fresh thyme before serving.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Beef Tacos",
+      "ingredients": ["ground beef", "taco seasoning", "tortillas", "shredded lettuce", "diced tomato", "shredded cheese", "sour cream", "salsa", "avocado", "lime"],
+      "cookingTime": "20 minutes",
+      "calories": "400 kcal",
+      "instructions": "In a skillet, cook ground beef over medium heat until browned. Drain excess fat and stir in taco seasoning. Warm tortillas in a separate skillet. Fill tortillas with seasoned ground beef, shredded lettuce, diced tomato, shredded cheese, sour cream, salsa, sliced avocado, and a squeeze of lime juice. Serve hot.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Pad Thai",
+      "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "green onions", "garlic", "eggs", "peanuts", "lime", "fish sauce", "soy sauce", "tamarind paste", "sugar", "vegetable oil", "chili flakes"],
+      "cookingTime": "30 minutes",
+      "calories": "500 kcal",
+      "instructions": "Soak rice noodles in hot water until softened. Drain and set aside. In a wok or large skillet, heat vegetable oil over medium-high heat. Add minced garlic and chopped green onions. Stir in shrimp and cubed tofu. Cook until shrimp is pink and tofu is golden brown. Push ingredients to one side of the wok and crack eggs into the empty space. Scramble until cooked. Add soaked rice noodles to the wok along with bean sprouts and chopped peanuts. In a bowl, mix together fish sauce, soy sauce, tamarind paste, and sugar. Pour over the noodles and toss until well combined. Serve hot with lime wedges and chili flakes on the side.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Miso Soup",
+      "ingredients": ["dashi stock", "miso paste", "tofu", "wakame seaweed", "green onions"],
+      "cookingTime": "15 minutes",
+      "calories": "100 kcal",
+      "instructions": "In a pot, bring dashi stock to a simmer. Dissolve miso paste in a small amount of hot stock and add back to the pot. Stir in cubed tofu and soaked wakame seaweed. Simmer for 5 minutes. Garnish with chopped green onions before serving.",
+      "dietaryRestrictions": ["vegetarian"]
+    },
+    {
+      "name": "Chicken Adobo",
+      "ingredients": ["chicken thighs", "soy sauce", "vinegar", "garlic", "bay leaves", "black peppercorns", "sugar", "cooking oil", "rice"],
+      "cookingTime": "40 minutes",
+      "calories": "450 kcal",
+      "instructions": "In a bowl, combine soy sauce, vinegar, minced garlic, bay leaves, crushed black peppercorns, and sugar. Add chicken thighs and marinate for at least 30 minutes. In a skillet, heat cooking oil over medium heat. Add marinated chicken and marinade to the skillet. Bring to a boil, then reduce heat and simmer until chicken is tender and cooked through, about 30 minutes. Serve hot with rice.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Goulash",
+      "ingredients": ["beef stew meat", "onion", "bell pepper", "carrots", "potatoes", "paprika", "tomato paste", "beef broth", "bay leaves", "caraway seeds", "garlic", "salt", "black pepper", "olive oil", "sour cream", "parsley"],
+      "cookingTime": "2 hours",
+      "calories": "550 kcal",
+      "instructions": "In a Dutch oven, heat olive oil over medium-high heat. Add diced onion, sliced bell pepper, and chopped carrots. Cook until softened. Stir in beef stew meat and cook until browned. Add minced garlic, paprika, and caraway seeds. Cook until fragrant. Stir in tomato paste and cook for 2 minutes. Add beef broth and bay leaves. Bring to a simmer, then cover and cook over low heat for 1.5 to 2 hours, until beef is tender. Add diced potatoes and cook until tender. Season with salt and black pepper. Serve hot with a dollop of sour cream and chopped parsley.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Sushi Rolls",
+      "ingredients": ["sushi rice", "nori seaweed sheets", "rice vinegar", "sugar", "salt", "assorted fillings (e.g., cucumber, avocado, crab, smoked salmon, shrimp)", "soy sauce", "wasabi", "pickled ginger"],
+      "cookingTime": "45 minutes",
+      "calories": "300 kcal",
+      "instructions": "Cook sushi rice according to package instructions. In a small bowl, mix rice vinegar, sugar, and salt. Stir into the cooked rice. Lay a sheet of nori seaweed on a bamboo sushi mat. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top. Arrange your choice of fillings along the bottom edge of the rice. Using the bamboo mat, roll the sushi tightly, starting from the bottom. Seal the edge with a little water. Slice the sushi roll into bite-sized pieces. Serve with soy sauce, wasabi, and pickled ginger.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Paella",
+      "ingredients": ["short-grain rice", "chicken thighs", "chorizo sausage", "shrimp", "mussels", "onion", "bell pepper", "garlic", "tomato", "peas", "saffron threads", "paprika", "chicken broth", "olive oil", "lemon wedges", "parsley", "salt", "black pepper"],
+      "cookingTime": "1 hour",
+      "calories": "600 kcal",
+      "instructions": "In a paella pan or large skillet, heat olive oil over medium-high heat. Add diced onion, sliced bell pepper, and minced garlic. Cook until softened. Add sliced chorizo sausage and diced chicken thighs. Cook until browned. Stir in diced tomato, paprika, and saffron threads. Add short-grain rice and cook until translucent. Pour in chicken broth and bring to a simmer. Arrange shrimp, mussels, and peas on top. Cover and cook until rice is tender and seafood is cooked through, about 20-25 minutes. Season with salt and black pepper. Garnish with lemon wedges and chopped parsley before serving.",
+      "dietaryRestrictions": []
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "coconut milk", "curry powder", "turmeric", "cumin", "coriander", "cayenne pepper", "vegetable oil", "salt", "black pepper", "cilantro", "rice"],
+      "cookingTime": "45 minutes",
+      "calories": "500 kcal",
+      "instructions": "In a skillet, heat vegetable oil over medium heat. Add diced onion, minced garlic, and grated ginger. Cook until softened. Stir in diced tomatoes and cook until softened. Add curry powder, turmeric, cumin, coriander, and cayenne pepper. Cook until fragrant. Add diced chicken thighs and cook until browned. Pour in coconut milk and simmer until chicken is cooked through and sauce is thickened. Season with salt and black pepper. Serve hot with cooked rice, garnished with chopped cilantro.",
+      "dietaryRestrictions": []
+    }
+  ]
+  
